@@ -235,5 +235,15 @@ h1{
     font-weight: 200;
 }
 
-
+@media(max-width:750px){
+    .parameter{
+        display: flex;
+        flex-direction: column;
+    }
+    .card{
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    
+}
 
