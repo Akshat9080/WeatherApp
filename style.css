@@ -246,16 +246,3 @@ h1{
     }
     
 }
-
-@media ( max-width:550px) {
-    .form-container{
-        display: flex;
-        flex-direction: row;
-    }
-    .form-container input{
-        width: calc(100% - 40px);
-        padding: 0 10px;
-    }
-    
-}
-
